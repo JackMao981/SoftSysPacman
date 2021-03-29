@@ -16,4 +16,4 @@ I want to learn how to work with simple graphics in C. As an avid gamer, I think
 Pacman isn't exactly a new idea, and there are many implementation of Pacman out there already. I found several implementations of it just by typing on Google. I want to refrain from looking at them at the moment because I don't want to copy their implementations. I do have questions for the teaching team. What libraries should I look into for Pacman, without looking at how Pacman is made?
 
 #### First Steps
-I don't plan on working in a team for this project. I want to start exploring what packages are good for making 2D pixelated games in C. To demonstrate that this is done, I will have created a simple window with something random drawn on it. 
+I don't plan on working in a team for this project. I want to start exploring what packages are good for making 2D pixelated games in C. To demonstrate that this is done, I will have created a simple window with something random drawn on it.
