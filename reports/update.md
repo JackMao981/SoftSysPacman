@@ -21,3 +21,4 @@ I am trying to get sprites to work. I will be done with sprites when Pacman look
 
 Links:
 https://github.com/JackMao981/SoftSysPacman.git
+https://trello.com/b/IP1rSG4U/pacman
