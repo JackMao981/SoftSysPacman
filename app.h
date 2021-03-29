@@ -8,4 +8,5 @@ SDL_Event    m_window_event;
 
 void application();
 void draw();
-void update();
+void loop();
+void update(double delta_time);
